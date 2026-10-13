@@ -294,7 +294,7 @@ Page principale — Carte interactive
 
 Page de profil
 
-![Page de profil](screenshots/profile.png)
+![Page de profil](screenshots/profil.png)
 
 structure du projet 
 
