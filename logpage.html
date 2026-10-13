@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geoportail </title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <h1 class="title">Geoportail </h1>
+    <div class="box-login">
+        <div class="login-container">
+            <div class="Connexion"><h3>Connexion</h3><br></div>
+            <form id="loginForm">
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" required><br><br>
+                <label for="password">Mot de passe:</label><br>
+                <input type="password" id="password" name="password" required><br><br>
+                <input type="submit" class="btn-login" value="Se connecter"><br><br>
+                <a href="auth.html">Pas authentifié? S'inscrire</a><br><br>
+                <div id="message" class="message"></div>
+            </form>
+        </div>  
+    </div>
+    <script src="scripts/login.js"></script>
+</body>
+</html>
