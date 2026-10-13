@@ -274,29 +274,31 @@ placer les fichier dans XAMPP/htdocs
 
 Accéder à http://localhost/login.html
 
+🎮 Démo
 
+Une version statique de démonstration est disponible ici : [Voir la démo](https://yahyar.github.io/Geoportail/index.html)
 
 📸 Captures d'écran
 
 page de connexion 
 
-!\[Page de connexion](screenshots/login.png)
+![Page de connexion](screenshots/login.png)
 
 page d'authentification
 
-!\[Page d'inscription](screenshots/auth.png)
+![Page d'inscription](screenshots/auth.png)
 
 Page principale — Carte interactive
 
-!\[Carte interactive](screenshots/main.png)
+![Carte interactive](screenshots/main.png)
 
 Page de profil
 
-!\[Page de profil](screenshots/profile.png)
+![Page de profil](screenshots/profile.png)
 
 structure du projet 
 
-!\[structure du projet](screenshots/structure.png)
+![structure du projet](screenshots/structure.png)
 
 
 
