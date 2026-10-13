@@ -203,8 +203,8 @@ Geoportail AUMK/
 
 \### Étapes d'installation
 
-1\. \*\*Cloner le dépôt\*\*
-git clone https://github.com/yahyar/geoportail-aumk.git
+1\Cloner le dépôt
+git clone https://github.com/yahyar02/Geoportail.git
 Configurer la base de données
 
 Créer une base de données PostgreSQL
@@ -259,6 +259,7 @@ placer les fichier dans XAMPP/htdocs
 
 Accéder à http://localhost/login.html
 
+
 🎮 Démo
 
 Une version statique de démonstration est disponible ici : [Voir la démo](https://yahyar01.github.io/Geoportail/index.html)
@@ -307,7 +308,7 @@ Ce projet a été réalisé dans un cadre académique. Tous droits réservés.
 
 
 
-🙏 Remerciements
+Remerciements
 
 Je tiens à remercier l'ensemble du personnel de l'Agence Urbaine de Meknès pour leurs encadrement  et conseils.
 
