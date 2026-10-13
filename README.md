@@ -97,104 +97,56 @@ Dans scripts/layers.js j'ai coder une fonction qui affiche des couches depuis ge
 
 
 Geoportail AUMK/
-
 │
-
 ├── auth.html
-
 ├── logpage.html
-
 ├── main.php
-
 ├── profil.php
-
 ├── update\_profil.php
-
 ├── logout.php
-
 ├── README.md
-
 │
-
 ├── PHP/
-
 │   ├── auth.php
-
 │   ├── config.php
-
 │   └── login.php
-
 │
-
 ├── scripts/
-
 │   ├── auth.js
-
 │   ├── controls.js
-
 │   ├── layers.js
-
 │   ├── login.js
-
 │   └── script.js
-
 │
-
 ├── styles/
-
 │   ├── main.css
-
 │   ├── profil.css
-
 │   └── style.css
-
 │
-
 ├── pluggins/
-
 │   ├── css/
-
 │   │   ├── leaflet-measure-path.css
-
 │   │   ├── leaflet.legend.css
-
 │   │   └── Leaflet.LinearMeasurement.css
-
 │   │
-
 │   └── js/
-
 │       ├── L.Geoserver.js
-
 │       ├── leaflet-measure-path.js
-
 │       ├── leaflet.browser.print.min.js
-
 │       ├── leaflet.legend.js
-
 │       └── Leaflet.LinearMeasurement.js
-
 │
-
 ├── medias/
-
 │   ├── background-image.jpg
-
 │   ├── localisation.jpg
-
 │   └── searchcord.webp
-
 │
-
 └── uploads/
-
-&#x20;   └── profiles/
+   └── profiles/
 
 
 
 \## ⚙️ Installation et configuration
-
-
 
 &#x20;Prérequis
 
@@ -205,21 +157,10 @@ Geoportail AUMK/
 \-Geoserver installé et configuré
 
 
-
-
-
 \### Étapes d'installation
 
-
-
 1\. \*\*Cloner le dépôt\*\*
-
-
-
 git clone https://github.com/yahyar/geoportail-aumk.git
-
-
-
 Configurer la base de données
 
 Créer une base de données PostgreSQL
@@ -276,7 +217,7 @@ Accéder à http://localhost/login.html
 
 🎮 Démo
 
-Une version statique de démonstration est disponible ici : [Voir la démo](https://yahyar.github.io/Geoportail/index.html)
+Une version statique de démonstration est disponible ici : [Voir la démo](https://yahyar01.github.io/Geoportail/index.html)
 
 📸 Captures d'écran
 
